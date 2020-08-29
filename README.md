@@ -1,5 +1,5 @@
 # PingPong68
- 8051 Ping Pong Game in C  
+ STC 8051 Ping Pong Game in C  
  by https://github.com/Admin368   
  >Wiki: https://github.com/Admin368/PingPong68/wiki  
  >DemoVideo : https://youtu.be/qx0ydKIMGgY  
