@@ -1,8 +1,8 @@
 # PingPong68
- 8051 Ping Pong Game in C
+ 8051 Ping Pong Game in C  
  by https://github.com/Admin368   
- Wiki: https://github.com/Admin368/PingPong68/wiki  
- DemoVideo : https://youtu.be/qx0ydKIMGgY  
+ >Wiki: https://github.com/Admin368/PingPong68/wiki  
+ >DemoVideo : https://youtu.be/qx0ydKIMGgY  
  This Project was to replicate the famous game of Ping Pong on an 8x8 led Matrix using an 8051 Microcontroller.
  It slowly evolved to include key controls implementation, 2 player functionality,
  basic score record keeping and intermediate Ai player option to allow one player to play with the game itself.
